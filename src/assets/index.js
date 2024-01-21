@@ -19,7 +19,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import nextjs from "./tech/nextjs.png";
 import creator from "./creator.png";
-import coinhood from "./coinhood.png";
+import cryptoworld from "./cryptoworld.png";
 import hulu from "./hulu.png";
 import beats from "./beats.png";
 
@@ -42,7 +42,7 @@ export {
   tailwind,
   typescript,
   threejs,
-  coinhood,
+  cryptoworld,
   hulu,
   beats,
   nextjs,

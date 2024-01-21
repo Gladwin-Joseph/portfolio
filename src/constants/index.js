@@ -13,7 +13,7 @@ import {
   git,
   nextjs,
   threejs,
-  coinhood,
+  cryptoworld,
   hulu,
   beats,
   creator,
@@ -106,16 +106,16 @@ const technologies = [
 
 const projects = [
   {
-    name: "Coin Hood",
+    name: "cryptoworld",
     description:
-      "A crypto currency tracker made with react, usingfirebase as the back-end, successfully implemented multi-pagerouting using react-router, integrated the coin-gecko api, used tailwind-css for the front-end. The website also has authentication for a particular user, using firebase auth. Deployed using vercel.",
+      "A crypto currency tracker made with react, redux toolkit, ant design and implemented various api's together.Deployed using vercel.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "firebase",
+        name: "redux",
         color: "green-text-gradient",
       },
       {
@@ -123,8 +123,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: coinhood,
-    project_link: "https://coinhood.vercel.app/",
+    image: cryptoworld,
+    project_link: "https://cryptoworld2.vercel.app/",
   },
   {
     name: "Hulu",
